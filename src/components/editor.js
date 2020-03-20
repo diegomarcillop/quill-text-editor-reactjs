@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import Quill from "quill";
 import {} from "quill";
-import "./editor.css";
-import "./quill.snow.css";
+import "./editor.css"; 
 
 class Editor extends Component {
   constructor(props) {

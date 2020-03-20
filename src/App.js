@@ -1,5 +1,5 @@
 import React from "react";
-import Editor from "./components/editor/editor";
+import Editor from "./components/editor";
 function App() {
   return (
     <div className="App">
